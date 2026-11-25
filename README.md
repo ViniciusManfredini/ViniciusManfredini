@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Vinícius Manfredini! 👋
 
-<!--
-**ViniciusManfredini/ViniciusManfredini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Systems & Data Analyst** transitioning into **Data Engineering**, passionate about building reliable data pipelines, automating workflows, and turning raw data into actionable insights.
 
-Here are some ideas to get you started:
+Currently, I work with SQL databases, ETL routines, and process automation, while deepening my skills in modern data engineering architectures, data modeling, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Requests)
+* **Data & ETL:** Power Query, Dimensional Modeling (Star Schema), Medallion Architecture
+* **Automation & BI:** Power Automate, Power BI (DAX)
+* **Version Control & Tools:** Git, GitHub, VS Code
+
+---
+
+### 🎯 Current Focus
+
+- 🔭 Building end-to-end data pipelines (Bronze, Silver, Gold layers) for my portfolio.
+- 🌱 Studying Data Engineering fundamentals, Docker, dbt, and cloud ecosystems.
+- 💬 Practicing English for technical environments and global collaboration.

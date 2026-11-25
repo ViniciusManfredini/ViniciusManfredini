@@ -8,7 +8,7 @@ Currently, I work with SQL databases, ETL routines, and process automation, whil
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Requests)
+* **Languages:** SQL (MySQL, SQL Server), Python (Pandas, NumPy, Requests)
 * **Data & ETL:** Power Query, Dimensional Modeling (Star Schema), Medallion Architecture
 * **Automation & BI:** Power Automate, Power BI (DAX)
 * **Version Control & Tools:** Git, GitHub, VS Code
